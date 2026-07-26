@@ -54,10 +54,12 @@ if st.button("Predict House Price"):
     }
 
     try:
+        API_URL = "https://house-price-prediction-t7vc.onrender.com"
+
         response = requests.post(
-            "http://127.0.0.1:8000/predict",
-            json=payload
-        )
+        f"{API_URL}/predict",
+        json=payload
+            )
 
         if response.status_code == 200:
             result = response.json()
