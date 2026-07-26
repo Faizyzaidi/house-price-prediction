@@ -250,16 +250,14 @@ GET /metrics
 ## 📸 Screenshots
 
 ### Streamlit Home
+<img width="1890" height="844" alt="image" src="https://github.com/user-attachments/assets/539fdfb8-5771-4f51-b14a-6af3c1c1dc23" />
 
-_Add screenshot here_
 
 ### Prediction Result
+<img width="1857" height="861" alt="image" src="https://github.com/user-attachments/assets/9b934a31-f1ba-4010-b115-4d169006b96e" />
 
-_Add screenshot here_
 
-### Swagger API
 
-_Add screenshot here_
 
 ---
 
@@ -283,8 +281,7 @@ _Add screenshot here_
 GitHub:
 https://github.com/Faizyzaidi
 
-LinkedIn:
-(Add your LinkedIn profile)
+
 
 ---
 
